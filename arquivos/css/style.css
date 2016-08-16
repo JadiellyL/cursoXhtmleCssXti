@@ -1,5 +1,9 @@
+body{
+	background-color: #f0f0f5;
+}
 h1, h3{
 	text-align: center;
+	color: #660000;
 }
 .rodape{
 	text-align: center;
