@@ -8,3 +8,14 @@ h1, h3{
 .rodape{
 	text-align: center;
 }
+img{
+	width: 550px;
+	height: 300px;
+}
+
+.imageCorrespondente{
+	width: 170px;
+	height: 300px;
+	position: absolute;
+	
+}
