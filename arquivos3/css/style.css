@@ -1,0 +1,29 @@
+img{
+	width: 318px;
+	height: 159px;
+}
+
+.comidas{
+	width: 550px;
+	float: left;
+	margin: 5px;
+	
+}
+
+.bebidas{
+	width: 550px;
+	float: right;
+	margin: 5px;
+}
+
+body{
+	background-color: #ffc6b3;
+}
+
+h1{
+	background-color:  #661a00;
+	padding: 50px;
+	margin: -10px;
+	color: #ffffff;
+	text-align: center;
+}
